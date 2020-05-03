@@ -1,0 +1,12 @@
+.DS_Store
+
+database/
+
+!web/database/
+
+web/public/css/*
+!web/public/css/.gitkeep
+
+web/public/js/*
+!web/public/js/.gitkeep
+
